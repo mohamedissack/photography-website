@@ -6,6 +6,7 @@ This is a  project dedicated to my favorite list of photos
 
 ## Demo
 Here is a working live demo: https://mohamedissack.github.io/photography-website/
+
 Here is the figma link : https://www.figma.com/file/X9LqkPoBLkGlmWNIEMVayX/Untitled
 
 ## Mobile support
